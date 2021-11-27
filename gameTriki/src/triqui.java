@@ -157,7 +157,7 @@ public class triqui extends javax.swing.JFrame {
             }
         }); 
         
-        //logica para ajustar el frame 
+        //ajustar el frame 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout); 
         layout.setHorizontalGroup(
